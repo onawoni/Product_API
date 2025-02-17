@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|c:\\users\\uhome\\source\\repos\\aspwebapi\\productapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|c:\\users\\uhome\\source\\repos\\aspwebapi\\productapi\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|c:\\users\\uhome\\source\\repos\\aspwebapi\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|c:\\users\\uhome\\source\\repos\\aspwebapi\\productapi\\productapi\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|c:\\users\\uhome\\source\\repos\\aspwebapi\\productapi\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92579CAF-85DD-4DBA-B176-056336014E7D}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAACwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:08:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductApi\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:47:00.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:32:02.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApi.csproj",
+              "DocumentMoniker": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\ProductApi.csproj",
+              "RelativeDocumentMoniker": "ProductApi\\ProductApi.csproj",
+              "ToolTip": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\ProductApi.csproj",
+              "RelativeToolTip": "ProductApi\\ProductApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T12:37:11.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "ProductApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:16:39.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
