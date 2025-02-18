@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "ProductApi.Controllers.ProductController",
+    "Method": "DeleteId",
+    "RelativePath": "api/Product/DeleteId",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductApi.Controllers.ProductController",
     "Method": "GetAll",
     "RelativePath": "api/Product/GetAll",
     "HttpMethod": "GET",

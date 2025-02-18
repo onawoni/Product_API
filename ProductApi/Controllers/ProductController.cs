@@ -65,7 +65,18 @@ namespace ProductApi.Controllers
             _context.SaveChanges();
             return Ok(products);
         }
-         
+        [HttpDelete]
+        public async Task<IActionResult> DeleteId(int id)
+        {
+            var products = await _context.Products.FindAsync(id);
+            if(products == null)
+            {
+                return NotFound("product with ID: " + id + "not found");
+            }
+            _context.Remove(products);
+            _context.SaveChanges();
+            return Ok(products + "Deleted");
+        }
       
         
     }
