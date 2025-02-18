@@ -6685,11 +6685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\ProductApi.csproj",
+      "projectUniqueName": "C:\\Users\\uHome\\source\\repos\\Product_API\\ProductAPI\\ProductApi\\ProductApi.csproj",
       "projectName": "ProductApi",
-      "projectPath": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\ProductApi.csproj",
+      "projectPath": "C:\\Users\\uHome\\source\\repos\\Product_API\\ProductAPI\\ProductApi\\ProductApi.csproj",
       "packagesPath": "C:\\Users\\uHome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uHome\\source\\repos\\ASPWebAPI\\ProductApi\\ProductApi\\obj\\",
+      "outputPath": "C:\\Users\\uHome\\source\\repos\\Product_API\\ProductAPI\\ProductApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

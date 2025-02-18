@@ -13,12 +13,15 @@ namespace ProductApi.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
+
         private readonly ProductDbContext _context;
         public ProductController(ProductDbContext _context)
         {
             this._context = _context;
 
         }
+    
+
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
@@ -33,6 +36,7 @@ namespace ProductApi.Controllers
         public async Task<IActionResult> Post(Product products)
         {
             await _context.Products.AddAsync(products);
+            products.Id = _context.Products.Count() + 1;
             _context.SaveChanges();
             return Ok(products);
         }
@@ -61,7 +65,7 @@ namespace ProductApi.Controllers
             _context.SaveChanges();
             return Ok(products);
         }
-        
+         
       
         
     }

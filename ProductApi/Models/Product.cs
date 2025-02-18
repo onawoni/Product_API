@@ -8,4 +8,5 @@
         public int Inventory { get; set; } 
         public decimal Price { get; set; }
     }
+    
 }
